@@ -18,7 +18,6 @@ This technical expertise, combined with my background in **Economics and Busines
 
 I am passionate about contributing to impactful projects across diverse fields, whether it’s web development, AI integration, or system administration.  
 
----
 
 ## 🛠 **Technical Skills**  
 
@@ -31,8 +30,6 @@ I am passionate about contributing to impactful projects across diverse fields, 
 
 - **1337 (42 School)** – Advanced software engineering program.  
 - **Bachelor's Degree in Economics** – Specialization in **Business Management & Marketing**  
-
----
 
 
 ## 🤝 **Let's Connect!**  
