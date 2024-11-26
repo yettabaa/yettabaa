@@ -1,5 +1,5 @@
 
-# 🖥️ **Ettabaa Yassin – Software Engineer**  
+# 🖥️ **Yassin Ettabaa – Software Engineer**  
 <p align="center">
     <img src="https://badge.mediaplus.ma/binary/yettabaa" alt="yettabaa's 42 badge" />
 </p>
@@ -16,7 +16,7 @@ At 1337, I developed a strong foundation in **low-level programming (C/C++)**, w
 
 This technical expertise, combined with my background in **Economics and Business Management**, allows me to approach problems with a unique perspective—balancing technical solutions with strategic business insights.  
 
-I am passionate about contributing to impactful projects across diverse fields, whether it’s web development, AI integration, or system administration.  
+I am passionate about contributing to impactful projects across diverse fields in computer science. 
 
 
 ## 🛠 **Technical Skills**  
@@ -29,7 +29,7 @@ I am passionate about contributing to impactful projects across diverse fields, 
 ## 🌟 **Education**  
 
 - **1337 (42 School)** – Advanced software engineering program.  
-- **Bachelor's Degree in Economics** – Specialization in **Business Management & Marketing**  
+- **Bachelor Degree in Economics** – Specialization in **Economics and Business Management**  
 
 
 ## 🤝 **Let's Connect!**  
